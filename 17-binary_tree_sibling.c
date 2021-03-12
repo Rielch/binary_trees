@@ -1,7 +1,7 @@
 #include "binary_trees.h"
 
 /**
- * binary_tree_sibiling - Returns the sibiling of the binary tree node
+ * binary_tree_sibling - Returns the sibiling of the binary tree node
  *
  * @node: node of the binary tree
  * Return: Sibiling of the node or NULL if there is none
